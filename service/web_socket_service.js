@@ -38,7 +38,7 @@ module.exports.listen = () => {
         })
       }
 
-      client.send('hello 我是后端')
+      // client.send('hello 我是后端')
     })
   })
 
