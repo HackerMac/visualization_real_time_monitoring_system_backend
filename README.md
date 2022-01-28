@@ -2,7 +2,7 @@
 
 - ### 预览地址: [点击预览](http://visual.sakuramk.cn/#/home)
 
-- ### 项目前端地址：[点击前往](https://github.com/HackerMac/visualization_real_time_monitoring_system_front-)
+- ### 项目前端地址：[点击前往](https://github.com/HackerMac/visualization_real_time_monitoring_system_front)
 
 - ### 后端地址（当前）：[点击前往](https://github.com/HackerMac/visualization_real_time_monitoring_system_backend)
 
